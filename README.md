@@ -1,5 +1,5 @@
 # AndroidSheepUnity
-A normal Unity game for Android, 
+
 
 ### Wanna try ? [Get it here](https://drive.google.com/file/d/1DKDru2Gp1MUfnCElYYOgp_NBU4n45_dp/view?usp=sharing)
 
